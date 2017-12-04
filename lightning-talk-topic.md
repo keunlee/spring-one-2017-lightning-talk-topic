@@ -53,3 +53,21 @@
 * So interestingly enough, when I was coming up with the topics and use cases for this talk, I spoke of it to my boss, J. Schwan over at Solstice. He enlightened me to the fact, that an active software system was in development and deployable for emergency responders, utilizing Sensors, IoT, GIS, and Cloud Native Technologies to create situational awareness of what's going on in real time.
 
 ## We have the Technology!
+
+* So there's no question that we have the tools and infrastructure to make these things happen. Mostly because they are happening.
+
+* Some of those tools can be leveraged from what we already know w/in the Spring Ecosystem: Spring Boot, Spring Cloud Streams, Spring Cloud Data Flow to name a few.
+
+* And then tools that can be leveraged for near real time messaging and processing, such as: Apache Kafka, Apache Spark, RabbitMQ to name a few.
+
+* And then a robust scalable platform such as Pivotals Cloud Foundry to put it all on.
+
+* And then an accurate account of spatial data as a source of truth.
+
+* But most importantly: Advocacy and increased usage
+
+With the use of these tools and related building blocks, it is not outside the realm of possibility to achieve systems capable of quickly communicating "Situation Awareness".
+
+## Conclusion
+
+Thank you ladies and gentlemen.
