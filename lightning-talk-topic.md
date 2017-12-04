@@ -1,5 +1,7 @@
 # The Story
 
+## California under Fire
+
 * Just this year, California went through yet another tragedy causing billions of dollars in damages, loss of homes, loss of life, and displaced families.
 
 * Every year, in this side of the coast, for as long as I can remember, this tragedy occurs on repeat!
@@ -36,4 +38,18 @@
 
 * Gahndi said this. I think he said this because he made these particular observations, made sense of it, believed in it, and stated it.
 
-* You know, technologically, we're not that far away from achieving this kind of awareness and decision making. It's not impossible.
+* You know, technologically, we're not that far away from achieving this kind of awareness and decision making, via AI, Machiner Learning, and/or Pattern Recognition.
+
+## Chicago under the Gun
+
+* Just in 2017, there have been over 3000 recorded shootings in Chicago. And that does NOT include the shootings that haven't been reported.
+
+* If you were to take every recorded shooting in Chicago this year, and punched a hole on a paper map for every shooting, almost all of Chicago would be blotted out. You'd literally be missing the South and West sides, because they'd be on the floor as confetti.
+
+* So, with all the data that we can collect on each shooting, specifically the where, the when, you still have to deal with the case that this data is conceived only after the fact. Which is generally too late for the victim.
+
+* So "Yes", we're able to at least discern where gun violent crimes are most concentrated, but how do you capture that in real time and respond possibly fast enough to actually maybe even save a victims life, before they bleed out? Or even possibly catch an assailant or suspect guilty of the crime?
+
+* So interestingly enough, when I was coming up with the topics and use cases for this talk, I spoke of it to my boss, J. Schwan over at Solstice. He enlightened me to the fact, that an active software system was in development and deployable for emergency responders, utilizing Sensors, IoT, GIS, and Cloud Native Technologies to create situational awareness of what's going on in real time.
+
+## We have the Technology!
