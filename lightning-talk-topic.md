@@ -66,8 +66,8 @@
 
 * But most importantly: What's needed is Advocacy and increased usage
 
-With the use of these tools and related building blocks, it is not outside the realm of possibility to achieve systems capable of quickly communicating "Situational Awareness".
+* With the use of these tools and related building blocks, it is not outside the realm of possibility to achieve systems capable of quickly communicating "Situational Awareness".
 
 ## Conclusion
 
-Thank you ladies and gentlemen.
+* Thank you ladies and gentlemen.
