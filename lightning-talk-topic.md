@@ -36,9 +36,9 @@
 
 * "Man often becomes what he believes himself to be. If I keep on saying to myself that I cannot do a certain thing, it is that I may end by really becoming incapable of doing it. On the contrary, If I have the belief that I can do it, I shall surely acquire the capacity to do it, even if I may not have it at the beginning"
 
-* Gahndi said this. I think he said this because he made these particular observations, made sense of it, believed in it, and stated it.
+* Ghandi said this. I think he said this because he made these particular observations, made sense of it, believed in it, and stated it.
 
-* You know, technologically, we're not that far away from achieving this kind of awareness and decision making, via AI, Machiner Learning, and/or Pattern Recognition.
+* You know, technologically, we're not that far away from achieving this kind of awareness and decision making, via AI, Machine Learning, and/or Pattern Recognition.
 
 ## Chicago under the Gun
 
@@ -64,7 +64,7 @@
 
 * And then an accurate account of spatial data as a source of truth.
 
-* But most importantly: Advocacy and increased usage
+* But most importantly: What's needed is Advocacy and increased usage
 
 With the use of these tools and related building blocks, it is not outside the realm of possibility to achieve systems capable of quickly communicating "Situation Awareness".
 
