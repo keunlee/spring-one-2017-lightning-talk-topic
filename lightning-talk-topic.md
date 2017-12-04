@@ -12,7 +12,7 @@
 
 * The imagery that I see being captured in media depicts what literally looks like "hell on earth".
 
-* As an engineer, I need to put my empathy aside for a moment, because I desire a logical solution to combat this problem, however tragedies in the wake of disaster tend not to make the most sense, especially when you're in the thick of things. So let's take a step back ...
+* As an engineer, I desire a logical solution to combat this problem. So let's take a step back ...
 
 * I'm interested in finding out how to increase "situational awareness", because:
   * The sooner you obtain awareness, then the sooner you can respond
@@ -66,7 +66,7 @@
 
 * But most importantly: What's needed is Advocacy and increased usage
 
-With the use of these tools and related building blocks, it is not outside the realm of possibility to achieve systems capable of quickly communicating "Situation Awareness".
+With the use of these tools and related building blocks, it is not outside the realm of possibility to achieve systems capable of quickly communicating "Situational Awareness".
 
 ## Conclusion
 
